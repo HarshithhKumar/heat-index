@@ -8,13 +8,11 @@ Heat Index is a responsive weather dashboard built with HTML, CSS, and vanilla J
 
 ## Screenshots
 
-| Desktop — Light | Desktop — Dark |
-|:---:|:---:|
-| ![Heat Index desktop light theme](./screenshots/desktop-light.png) | ![Heat Index desktop dark theme](./screenshots/desktop-dark.png) |
+### Latest live dashboard
 
-| Mobile — Light | Mobile — Dark |
-|:---:|:---:|
-| ![Heat Index mobile light theme](./screenshots/mobile-light.jpeg) | ![Heat Index mobile dark theme](./screenshots/mobile-dark.jpeg) |
+![Heat Index latest live dashboard](./screenshots/latest-dashboard.jpg)
+
+[Open the live Heat Index dashboard](https://heat-index-hk.netlify.app)
 
 ## Features
 
