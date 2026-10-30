@@ -2,6 +2,8 @@
 
 **Know when things are heating up.**
 
+**[View the live Heat Index dashboard](https://heat-index-hk.netlify.app)**
+
 Heat Index is a responsive weather dashboard built with HTML, CSS, and vanilla JavaScript. It displays current conditions, forecasts, air quality, and sunrise and sunset times, with city search and light and dark themes.
 
 ## Screenshots
